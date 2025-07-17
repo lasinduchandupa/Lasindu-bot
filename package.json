@@ -1,12 +1,12 @@
 {
-  "name": "your name",
+  "name": "Lasindu Bot",
   "version": "1.0.0",
   "description": "A WhatsApp Bot Created To automate tasks",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name your name",
-    "stop": "pm2 stop your name",
-    "restart": "pm2 restart your name"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Lasindu Bot",
+    "stop": "pm2 stop Lasindu Bot",
+    "restart": "pm2 restart Lasindu Bot"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
