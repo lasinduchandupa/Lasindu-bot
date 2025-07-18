@@ -6,7 +6,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",  // ADD YOUR SESSION ID 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/atby2t.png",
 ALIVE_MSG: process.env.ALIVE_MSG || "HEY DEAR, I'm thrilled to announce that Lasindu Bot is ALIVE now—ready to dive into new adventures with you!",
-SUDO_NB: process.env.SUDO_NB || "94774702813",
+SUDO_NB: process.env.SUDO_NB || "94750396977",
 AUTO_REACT: process.env.AUTO_REACT || "true", // Enable/disable auto reaction (true/false)
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
